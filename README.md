@@ -1,5 +1,5 @@
 # Full-Array-Algorithm-Sorter
-This Program Used the Array Data Structure with a full library of Sort Algorithm:
+This Program uses an Array Data Structure with a full library of Sort Algorithms to test speed and run time:
 
 On Run:
 This Program will ask the User, how large the array is, and then will generate random integers for each index of the array.
